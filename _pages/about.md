@@ -23,7 +23,7 @@ I am now a second-year doctoral student in the <a href='http://ir.hit.edu.cn/'>S
 Previously, I obtained my B.Eng. degree in Software Engineering from Harbin Institute of Technology in 2022. 
 
 My research interests lie in natural language reasoning, including question answering, chain-of-thought reasoning, and multimodal reasoning.
-Besides, I am also interested in how LLMs acquire reasoning ability , and in-context learning in vision domain.
+Besides, I am also interested in how LLMs acquire reasoning ability , and in-context learning in vision-language domain.
 
 
 ## News
