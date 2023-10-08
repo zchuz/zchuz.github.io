@@ -26,6 +26,7 @@ Previously, I got my B.Eng. degree from HIT in 2022.
 
 My research interests lie in natural language reasoning, including question answering, chain-of-thought reasoning, and multimodal reasoning.
 
+-----
 
 ## News
 - One paper was accepted in Findings of EMNLP, 2023.
