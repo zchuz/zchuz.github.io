@@ -26,11 +26,6 @@ Previously, I got my B.Eng. degree from HIT in 2022.
 
 My research interests lie in natural language reasoning, including question answering, chain-of-thought reasoning, and multimodal reasoning.
 
-\\
-\\
-\\
-\\
-\\
 
 ## News
 - **2023.10** One paper was accepted to Findings of EMNLP'2023 on temporal reasoning.
@@ -40,6 +35,5 @@ My research interests lie in natural language reasoning, including question answ
 - **2023.09~now** Huawei Inc., Shenzhen
 - **2021.10~2022.05** iFLYTEK Research, Beijing
 
-#### HUAWEI
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
