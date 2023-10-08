@@ -1,14 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 "EMNLP":
-  color: "99FFFF"
+  color: "#99FFFF"
 
 "arXiv":
-  color: "9C9C9C"
+  color: "#9C9C9C"
 
 "ACL":
-  color: "FF5151"
+  color: "#FF5151"
 
 
