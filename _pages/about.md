@@ -27,5 +27,12 @@ Previously, I got my B.Eng. degree from HIT in 2022.
 My research interests lie in natural language reasoning, including question answering, chain-of-thought reasoning, and multimodal reasoning.
 
 
+## News
+- One paper was accepted in Findings of EMNLP, 2023.
+- We release a survey about chain-of-thought reasoning.
+
+## Experiments
+### IFLYTEK
+#### HUAWEI
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
