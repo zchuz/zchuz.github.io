@@ -34,5 +34,6 @@ Besides, I am also interested in how LLMs acquire reasoning ability , and in-con
 - **2023.09~now** Huawei Inc., Shenzhen
 - **2021.10~2022.05** iFLYTEK Research, Beijing
 
-
+## Other than research
+- **2023.10.16** Congratulations to LGD and Azure Ray!! Advance to the winners bracket!!🎉🎉🎉
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
