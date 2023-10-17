@@ -27,6 +27,7 @@ Besides, I am also interested in how LLMs acquire reasoning ability , and in-con
 
 
 ## News
+- **23.10.17** We release the second version of our Chain-of-Thought Reasoning Survey, please check it on <a href='https://arxiv.org/abs/2309.15402'> arxiv<a>.
 - **2023.10** One paper was accepted to Findings of EMNLP'2023 on temporal reasoning.
 - **2023.09** We release a survey on <a href='https://arxiv.org/abs/2309.15402'>chain-of-thought reasoning<a>.
 
