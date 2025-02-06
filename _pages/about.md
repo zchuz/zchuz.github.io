@@ -19,9 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), under the guidance of Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research focuses on biologically inspired neural networks, machine learning, and their applications in cognitive science and artificial intelligence. He is particularly interested in integrating brain-inspired models with advanced AI systems, as well as exploring the safety and interpretability of large-scale models to address complex real-world challenges. <a href='https://scholar.google.com/citations?user=Sv-WdBkAAAAJ'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), under the guidance of Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research focuses on biologically inspired neural networks, machine learning, and their applications in cognitive science and artificial intelligence. He is particularly interested in integrating brain-inspired models with advanced AI systems, as well as exploring the safety and interpretability of large-scale models to address complex real-world challenges.
+
+You can find his CV [here](pdf/Guobin_Shen_CV.docx)
+
+ <!-- <a href='https://scholar.google.com/citations?user=Sv-WdBkAAAAJ'> -->
+  <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> -->
+<!-- </a> -->
 
 His research interests include:
 - **Biologically Inspired Neural Networks**
