@@ -21,18 +21,18 @@ redirect_from:
 
 Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), under the guidance of Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research focuses on biologically inspired neural networks, machine learning, and their applications in cognitive science and artificial intelligence. He is particularly interested in integrating brain-inspired models with advanced AI systems, as well as exploring the safety and interpretability of large-scale models to address complex real-world challenges.
 
-You can find his CV [here](pdf/Guobin_Shen_CV.docx).
+**🚀 He is actively seeking postdoctoral opportunities for Fall 2026.**
+
+You can find his CV here: [📋 English](pdf/cv_guobin_shen.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
 
  <!-- <a href='https://scholar.google.com/citations?user=Sv-WdBkAAAAJ'> -->
   <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> -->
 <!-- </a> -->
 
 His research interests include:
+- **LLM Safety, Alignment & Interpretability**
 - **Biologically Inspired Neural Networks**
 - **Cognitive Science and Neuroscience-Inspired AI**
-- **Mechanistic Interpretability of LLMs**
-- **Alignment Strategy for LLMs**
-- **AI Safety**
 
 
 # 📰 News
@@ -152,8 +152,8 @@ Served as a reviewer for conferences including **NeurIPS**, **ICML**, **ICLR**, 
 - *2025.06* President's Scholarship, Chinese Academy of Sciences `Top 1%`
 - *2024.11* National Scholarship (Doctoral Student) `Top 1%`
 - *2022.11* Best Paper Award, Chinese Scientists with Cell Press
-- *2019.11* National Scholarship (Undergraduate) `Top 1%`
 - *2020.11* National Scholarship (Undergraduate) `Top 1%`
+- *2019.11* National Scholarship (Undergraduate) `Top 1%`
 - *2019.09* Runner-Up, International Aerial Robotics Competition (Asia-Pacific Region)
 - *2019.09* National Second Prize, National Undergraduate Electronic Design Competition `Top 5%`
 
