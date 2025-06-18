@@ -21,7 +21,7 @@ redirect_from:
 
 Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), under the guidance of Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research focuses on biologically inspired neural networks, machine learning, and their applications in cognitive science and artificial intelligence. He is particularly interested in integrating brain-inspired models with advanced AI systems, as well as exploring the safety and interpretability of large-scale models to address complex real-world challenges.
 
-**🚀 He is actively seeking postdoctoral opportunities for Fall 2026.**
+**🚀 He is actively seeking postdoctoral positions and industry opportunities for Fall 2026**
 
 You can find his CV here: [📋 English](pdf/cv_guobin_shen.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
 
