@@ -37,13 +37,14 @@ His research interests include:
 
 # 📰 News
 
-1. We released **PandaGuard**, a systematic evaluation framework for LLM safety against jailbreaking attacks. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
-2. We released **CVC**, a large-scale Chinese value rule corpus for value alignment of large language models. 💻[[Code]]((https://github.com/Beijing-AISI/CVC)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/CVC)
-3. Our paper on [**LLM jailbreak antidote**](https://openreview.net/forum?id=s20W12XTF8) has been accepted by **ICLR 2025**.
-4. Our two papers, [**StressPrompt**](https://openreview.net/forum?id=vbasQ4Kr6k) on LLM stress analysis and [**DVS data augmentation**](https://openreview.net/forum?id=pCNJkhoskj), have been accepted by **AAAI 2025**. 
-5. Our [**multimodal LLM framework**](https://neurips.cc/virtual/2024/poster/93607) on fMRI, vision, and language has been accepted by **NeurIPS 2024**. See you in Vancouver!
-6. Our paper on [**SNN efficiency analysis**](https://cvpr.thecvf.com/virtual/2024/poster/29731) has been accepted by **CVPR 2024** and selected as a **highlight paper**.
-7. Our work on **neuro-evolution strategies** has been accepted by **PNAS**. [Read more](https://www.pnas.org/doi/10.1073/pnas.2218173120).
+1. Our work **SpikePack**, which unifies direct training and conversion of spiking neural networks from an information flow perspective and explores the relationship with ANNs, has been accepted by **ICCV 2025**. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484v2)
+2. We released **PandaGuard**, a systematic evaluation framework for LLM safety against jailbreaking attacks. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
+3. We released **CVC**, a large-scale Chinese value rule corpus for value alignment of large language models. 💻[[Code]]((https://github.com/Beijing-AISI/CVC)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/CVC)
+4. Our paper on [**LLM jailbreak antidote**](https://openreview.net/forum?id=s20W12XTF8) has been accepted by **ICLR 2025**.
+5. Our two papers, [**StressPrompt**](https://openreview.net/forum?id=vbasQ4Kr6k) on LLM stress analysis and [**DVS data augmentation**](https://openreview.net/forum?id=pCNJkhoskj), have been accepted by **AAAI 2025**. 
+6. Our [**multimodal LLM framework**](https://neurips.cc/virtual/2024/poster/93607) on fMRI, vision, and language has been accepted by **NeurIPS 2024**. See you in Vancouver!
+7. Our paper on [**SNN efficiency analysis**](https://cvpr.thecvf.com/virtual/2024/poster/29731) has been accepted by **CVPR 2024** and selected as a **highlight paper**.
+8. Our work on **neuro-evolution strategies** has been accepted by **PNAS**. [Read more](https://www.pnas.org/doi/10.1073/pnas.2218173120).
 
 # 📝 Publications 
 
