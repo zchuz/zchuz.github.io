@@ -58,9 +58,9 @@ His research interests include:
   
 - `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, He, Xiang, and Zeng, Yi. "Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models." *Proceedings of the 13th International Conference on Learning Representations (ICLR 2025)*, 2025. 🔗[[OpenReview]](https://openreview.net/forum?id=s20W12XTF8) 📃[[PDF]](https://arxiv.org/pdf/2410.02298)
 
-- `Shen, Guobin`, Zhao, Dongcheng, Bao, Aorigele, He, Xiang, Dong, Yiting, and Zeng, Yi. "StressPrompt: Does Stress Impact Large Language Models and Human Performance Similarly?" *Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025)*, 2025. 🔗[[OpenReview]](https://openreview.net/forum?id=vbasQ4Kr6k) 📃[[PDF]](https://arxiv.org/pdf/2409.17167)
-
-- `Shen, Guobin`, Li, Jindong, Li, Tenglong, Zhao, Dongcheng, and Zeng, Yi. "*SpikePack*: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility." *arXiv preprint arXiv:2501.14484*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484)
+- `Shen, Guobin`, Li, Jindong, Li, Tenglong, Zhao, Dongcheng, and Zeng, Yi. "*SpikePack*: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility." *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484)
+  
+- `Shen, Guobin`, Zhao, Dongcheng, Bao, Aorigele, He, Xiang, Dong, Yiting, and Zeng, Yi. "StressPrompt: Does Stress Impact Large Language Models and Human Performance Similarly?" *Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI)*, 2025. 🔗[[OpenReview]](https://openreview.net/forum?id=vbasQ4Kr6k) 📃[[PDF]](https://arxiv.org/pdf/2409.17167)
 
 - `Shen, Guobin`, Zhao, Dongcheng, and Zeng, Yi. "Exploiting High-Performance Spiking Neural Networks with Efficient Spiking Patterns." *IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)*, 2025. 📃[[PDF]](pdf/shen2025exploting.pdf)
 
