@@ -37,20 +37,25 @@ His research interests include:
 
 # 📰 News
 
-1. Our work **SpikePack**, which unifies direct training and conversion of spiking neural networks from an information flow perspective and explores the relationship with ANNs, has been accepted by **ICCV 2025**. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484v2)
-2. We released **PandaGuard**, a systematic evaluation framework for LLM safety against jailbreaking attacks. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
-3. We released **CVC**, a large-scale Chinese value rule corpus for value alignment of large language models. 💻[[Code]]((https://github.com/Beijing-AISI/CVC)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/CVC)
-4. Our paper on [**LLM jailbreak antidote**](https://openreview.net/forum?id=s20W12XTF8) has been accepted by **ICLR 2025**.
-5. Our two papers, [**StressPrompt**](https://openreview.net/forum?id=vbasQ4Kr6k) on LLM stress analysis and [**DVS data augmentation**](https://openreview.net/forum?id=pCNJkhoskj), have been accepted by **AAAI 2025**. 
-6. Our [**multimodal LLM framework**](https://neurips.cc/virtual/2024/poster/93607) on fMRI, vision, and language has been accepted by **NeurIPS 2024**. See you in Vancouver!
-7. Our paper on [**SNN efficiency analysis**](https://cvpr.thecvf.com/virtual/2024/poster/29731) has been accepted by **CVPR 2024** and selected as a **highlight paper**.
-8. Our work on **neuro-evolution strategies** has been accepted by **PNAS**. [Read more](https://www.pnas.org/doi/10.1073/pnas.2218173120).
+1. Our two papers have been accepted by **NeurIPS 2025**: [**Learning the Plasticity**](https://arxiv.org/abs/2308.12063) on plasticity-driven learning framework in spiking neural networks (main conference), and [**STEP**](https://arxiv.org/abs/2505.11151) evaluation platform (Dataset and Benchmark Track).
+2. Our work **SpikePack**, which unifies direct training and conversion of spiking neural networks from an information flow perspective and explores the relationship with ANNs, has been accepted by **ICCV 2025**. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484v2)
+3. We released **PandaGuard**, a systematic evaluation framework for LLM safety against jailbreaking attacks. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
+4. We released **CVC**, a large-scale Chinese value rule corpus for value alignment of large language models. 💻[[Code]]((https://github.com/Beijing-AISI/CVC)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/CVC)
+5. Our paper on [**LLM jailbreak antidote**](https://openreview.net/forum?id=s20W12XTF8) has been accepted by **ICLR 2025**.
+6. Our two papers, [**StressPrompt**](https://openreview.net/forum?id=vbasQ4Kr6k) on LLM stress analysis and [**DVS data augmentation**](https://openreview.net/forum?id=pCNJkhoskj), have been accepted by **AAAI 2025**. 
+7. Our [**multimodal LLM framework**](https://neurips.cc/virtual/2024/poster/93607) on fMRI, vision, and language has been accepted by **NeurIPS 2024**. See you in Vancouver!
+8. Our paper on [**SNN efficiency analysis**](https://cvpr.thecvf.com/virtual/2024/poster/29731) has been accepted by **CVPR 2024** and selected as a **highlight paper**.
+9.  Our work on **neuro-evolution strategies** has been accepted by **PNAS**. [Read more](https://www.pnas.org/doi/10.1073/pnas.2218173120).
 
 # 📝 Publications 
 
 <!-- ### English  -->
 
 ### 2025
+
+- `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Li, Yang, Zhao, Feifei, and Zeng, Yi. "Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks." *Advances in Neural Information Processing Systems* (NeurIPS), 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2308.12063)
+  
+- Shen, Sicheng, Zhao, Dongcheng, Feng, Linghao, Yue, Zeyang, Li, Jindong, Li, Tenglong, `Shen, Guobin`, and Zeng, Yi. "STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking." *Advances in Neural Information Processing Systems (NeurIPS) Dataset and Benchmark Track*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2505.11151)
 
 - `Shen, Guobin`, Zhao, Dongcheng, Feng, Linghao, He, Xiang, Wang, Jihang, Shen, Sicheng, Tong, Haibo, Dong, Yiting, Li, Jindong, Zheng, Xiang, and others. "PandaGuard: Systematic Evaluation of LLM Safety in the Era of Jailbreaking Attacks." *arXiv preprint arXiv:2505.13862*, 2025. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
 
@@ -118,8 +123,6 @@ His research interests include:
 - Zeng, Yi, Zhao, Dongcheng, Zhao, Feifei, `Shen, Guobin`, Dong, Yiting, Lu, Enmeng, Zhang, Qian, Sun, Yinqian, Liang, Qian, Zhao, Yuxuan, and others. "BrainCog: A Spiking Neural Network Based, Brain-Inspired Cognitive Intelligence Engine for Brain-Inspired AI and Brain Simulation." *Patterns*, 2023, p. 100789. 📃[[PDF]](pdf/zeng2023braincog.pdf)
 
 - `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Li, Yang, and Zeng, Yi. "Dive into the Power of Neuronal Heterogeneity." *arXiv preprint arXiv:2305.11484*, 2023. 🔗[[Arxiv]](https://arxiv.org/abs/2305.11484)
-
-- `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Li, Yang, Zhao, Feifei, and Zeng, Yi. "Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks." *arXiv preprint arXiv:2308.12063*, 2023. 🔗[[Arxiv]](https://arxiv.org/abs/2308.12063)
 
 - `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Li, Yang, Li, Jindong, Sun, Kang, and Zeng, Yi. "Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling." *arXiv preprint arXiv:2312.07625*, 2023. 🔗[[Arxiv]](https://arxiv.org/abs/2312.07625)
 
