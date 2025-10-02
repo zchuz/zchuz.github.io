@@ -19,12 +19,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), supervised by Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research bridges neuroscience, cognitive science, and AI to develop brain-inspired approaches for building scalable, trustworthy, and safe large-scale models. He focuses on alignment methods, uncertainty quantification, and robustness against failure modes such as jailbreak attacks and hallucinations, aiming to create AI systems that are not only powerful but also interpretable and reliable.
+Guobin Shen is a fifth-year doctoral student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), supervised by Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research bridges neuroscience, cognitive science, and AI to develop brain-inspired approaches for building scalable, trustworthy, and safe large-scale models. He focuses on alignment methods, uncertainty quantification, and robustness against failure modes such as jailbreak attacks and hallucinations, aiming to create AI systems that are not only powerful but also interpretable and reliable.
 
 
 **🚀 He is actively seeking postdoctoral positions and industry opportunities for Fall 2026.**
 
-You can find his CV here: [📋 English](pdf/Guobin_Shen_CV.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
+You can find his CV here: [📋 English](pdf/guobin_shen_cv.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
 
  <!-- <a href='https://scholar.google.com/citations?user=Sv-WdBkAAAAJ'> -->
   <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> -->
