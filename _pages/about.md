@@ -19,21 +19,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), under the guidance of Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research focuses on biologically inspired neural networks, machine learning, and their applications in cognitive science and artificial intelligence. He is particularly interested in integrating brain-inspired models with advanced AI systems, as well as exploring the safety and interpretability of large-scale models to address complex real-world challenges.
+Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), supervised by Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research bridges neuroscience, cognitive science, and AI to develop brain-inspired approaches for building scalable, trustworthy, and safe large-scale models. He focuses on alignment methods, uncertainty quantification, and robustness against failure modes such as jailbreak attacks and hallucinations, aiming to create AI systems that are not only powerful but also interpretable and reliable.
+
 
 **🚀 He is actively seeking postdoctoral positions and industry opportunities for Fall 2026.**
 
-You can find his CV here: [📋 English](pdf/cv_guobin_shen.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
+You can find his CV here: [📋 English](pdf/Guobin_Shen_CV.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
 
  <!-- <a href='https://scholar.google.com/citations?user=Sv-WdBkAAAAJ'> -->
   <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> -->
 <!-- </a> -->
 
 His research interests include:
-- **LLM Safety, Alignment & Interpretability**
-- **Biologically Inspired Neural Networks**
+- **Scalable Alignment for Large Models**
+- **Interpretability & Trustworthy AI**
 - **Cognitive Science and Neuroscience-Inspired AI**
-
 
 # 📰 News
 
@@ -53,11 +53,17 @@ His research interests include:
 
 ### 2025
 
+- `Shen, Guobin`, Zhao, Dongcheng, Tong, Haibo, Li, Jindong, Zhao, Feifei, and Zeng, Yi. "Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense." *arXiv preprint arXiv:2510.01088*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2510.01088)
+
 - `Shen, Guobin`, Zhao, Dongcheng, Dong, Yiting, Li, Yang, Zhao, Feifei, and Zeng, Yi. "Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks." *Advances in Neural Information Processing Systems* (NeurIPS), 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2308.12063)
   
 - Shen, Sicheng, Zhao, Dongcheng, Feng, Linghao, Yue, Zeyang, Li, Jindong, Li, Tenglong, `Shen, Guobin`, and Zeng, Yi. "STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking." *Advances in Neural Information Processing Systems (NeurIPS) Dataset and Benchmark Track*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2505.11151)
 
 - `Shen, Guobin`, Zhao, Dongcheng, Feng, Linghao, He, Xiang, Wang, Jihang, Shen, Sicheng, Tong, Haibo, Dong, Yiting, Li, Jindong, Zheng, Xiang, and others. "PandaGuard: Systematic Evaluation of LLM Safety in the Era of Jailbreaking Attacks." *arXiv preprint arXiv:2505.13862*, 2025. 🏠[[Project]](https://panda-guard.github.io) 🔗[[Arxiv]](https://arxiv.org/abs/2505.13862) 💻[[Code]]((https://github.com/Beijing-AISI/panda-guard)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/panda-bench)
+
+- Li, Jindong, Li, Tenglong, Chen, Ruiqi, `Shen, Guobin`, Zhao, Dongcheng, Zhang, Qian, and Zeng, Yi. "Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA." The 2025 International Conference on Computer-Aided Design (ICCAD), 2025. 📃[[PDF]](https://arxiv.org/pdf/2507.03308)
+
+- Li, Jindong, Li, Tenglong, `Shen, Guobin`, Zhao, Dongcheng, Zhang, Qian, and Zeng, Yi. "Pushing Up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA." *2025 Design, Automation & Test in Europe Conference (DATE)*, IEEE, 2025, pp. 1-7. 📃[[PDF]](https://ieeexplore.ieee.org/abstract/document/10993087/)
 
 - Wu, Ping, `Shen, Guobin`, Zhao, Dongcheng, Wang, Yuwei, Dong, Yiting, Shi, Yu, Lu, Enmeng, Zhao, Feifei, and Zeng, Yi. "CVC: A Large-Scale Chinese Value Rule Corpus for Value Alignment of Large Language Models." *arXiv preprint arXiv:2506.01495*, 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2506.01495) 💻[[Code]]((https://github.com/Beijing-AISI/CVC)) 🤗[[Dataset]](https://huggingface.co/datasets/Beijing-AISI/CVC)
   
@@ -138,6 +144,11 @@ His research interests include:
 # 🔍 Academic Services
 
 Served as a reviewer for conferences including **NeurIPS**, **ICML**, **ICLR**, **CVPR**, **ICCV**, **ECCV**, **AAAI**, among others, as well as journals such as **Neural Networks** and **Neurocomputing**.
+
+# 🧑‍🏫 Teaching 
+
+- *2023.08 - 2023.12*, ***Teaching Assistant***, Systems and Computational Neuroscience, University of Chinese Academy of Sciences. 
+
 
 # 🚀 Projects
 
