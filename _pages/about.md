@@ -24,7 +24,7 @@ Guobin Shen is a fifth-year doctoral student at the [Institute of Automation, Ch
 
 **🚀 He is actively seeking postdoctoral positions and industry opportunities for Fall 2026.**
 
-You can find his CV here: [📋 English](pdf/guobin_shen_cv.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
+You can find his CV here: [📋 English](pdf/Guobin_Shen_CV.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
 
  <!-- <a href='https://scholar.google.com/citations?user=Sv-WdBkAAAAJ'> -->
   <!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> -->
