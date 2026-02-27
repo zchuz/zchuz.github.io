@@ -19,10 +19,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guobin Shen is a fifth-year doctoral student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), supervised by Prof. [Yi Zeng](https://braincog.ai/~yizeng/). His research bridges neuroscience, cognitive science, and AI to develop brain-inspired approaches for building scalable, trustworthy, and safe large-scale models. He focuses on alignment methods, uncertainty quantification, and robustness against failure modes such as jailbreak attacks and hallucinations, aiming to create AI systems that are not only powerful but also interpretable and reliable.
-
-
-**🚀 He is actively seeking postdoctoral positions and industry opportunities for Fall 2026.**
+Zheng Chu is a 4th-year doctoral student at the [Research Center for Social Computing and Iterative Robotics, Harbin Institute of Technology (HIT-SCIR)](https://ir.hit.edu.cn/), supervised by Prof. [Bing Qin](https://scholar.google.com/citations?user=LKnCub0AAAAJ&hl=zh-CN) and Prob. [Ming Liu](https://scholar.google.com/citations?user=VJtmTREAAAAJ&hl=en).
+His research focuses on **Large Language Models**, **LLM-based Agents**, **Agentic Reinforcement Learning**, with particular interests in **Deep-Research Agents**.
+Currently, he is currently a REDStar Intern at Xiaohongshu Hi Lab Post-training, working on agentic post-training and deep search agents.
+**🚀 He is actively seeking industry opportunities for Spring/Fall 2027.**
 
 You can find his CV here: [📋 English](pdf/Guobin_Shen_CV.pdf) \| [📋 中文](pdf/cv_guobin_shen_zh_CN.pdf).
 
