@@ -37,7 +37,7 @@ His research focuses on **Large Language Models** and **LLM-based Agents**:
 3. Joined the Post-Training Team at Xiaohongshu Hi Lab, focusing on agent post-training and deep-search agents.
 
 # 📝 Publications 
-*Auto-filled by CodeX from Google Scholar profile data, synced on 2026-03-17.*
+*Auto-filled by Claude Code from Google Scholar profile data, synced on 2026-05-11.*
 
 ### 2026
 
