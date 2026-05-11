@@ -32,8 +32,9 @@ His research focuses on **Large Language Models** and **LLM-based Agents**:
 
 # 📰 News
 
-1. We released **REDSearcher**, *A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents*. 🏠[[Project]](https://redsearchagent.github.io/) 💻[[GitHub]](https://github.com/RedSearchAgent/REDSearcher) 🤗[[Collections]](https://huggingface.co/collections/Zchu/redsearcher)
-2. Joined the Post-Training Team at Xiaohongshu Hi Lab, focusing on agent post-training and deep-search agents.
+1. **REDSearcher** was reported by **Synced (机器之心)**: *30B Parameters Surpassing GPT-5! REDSearcher Enables Scalable and Cost-Efficient Deep Search Agents.* 📰[[Report]](https://mp.weixin.qq.com/s/l0nNHniK7WDltc6x4yOGsw)
+2. We released **REDSearcher**, *A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents*. 🏠[[Project]](https://redsearchagent.github.io/) 💻[[GitHub]](https://github.com/RedSearchAgent/REDSearcher) 🤗[[Collections]](https://huggingface.co/collections/Zchu/redsearcher)
+3. Joined the Post-Training Team at Xiaohongshu Hi Lab, focusing on agent post-training and deep-search agents.
 
 # 📝 Publications 
 *Auto-filled by CodeX from Google Scholar profile data, synced on 2026-03-17.*
