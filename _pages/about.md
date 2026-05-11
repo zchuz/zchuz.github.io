@@ -40,11 +40,13 @@ His research focuses on **Large Language Models** and **LLM-based Agents**:
 
 ### 2026
 
+<!--
 - `Chu, Zheng`, Wang, Xiao, Zhang, Zihan, Fan, Huiming, Wang, Zhuoyao, Wang, Qianyu, Cheng, Xiang, Liu, Ming, Qin, Bing, and XingYu. "Beyond Hop Count: Structurally Complex Deep Search via Tree-Width-Guided Synthesis." [Search Agent]
 
 - `Chu, Zheng`, Wang, Xiao, Fan, Huiming, Wang, Qianyu, Wang, Zhuoyao, Cheng, Xiang, Liu, Ming, Qin, Bing, and XingYu. "OpenSearcher: Democratizing Deep Search through a Fully Offline Pipeline with Programmatic Verification." [Search Agent]
 
 - Fan, Huiming, Wang, Xiao, `Chu, Zheng`, Wang, Qianyu, Wang, Zhuoyao, Liu, Ming, Qin, Bing, and XingYu. "LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?" [Benchmark]
+-->
 
 - `Chu, Zheng`, Wang Xiao, Hong Jack, Fan, Huiming, Huang, Yuqi, Yang, Yue, Xu, Guohai, Zhao, Chenxiao, Xiang, Cheng, Hu, Shengchao, and others. "REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents." 🔗[[Paper]](https://arxiv.org/abs/2602.14234) [Search Agent]
 
